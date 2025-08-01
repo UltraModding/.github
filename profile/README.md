@@ -1,5 +1,15 @@
-## Hi there 👋
+## UltraModding
+```
+UltraModding is a collective focused on modding the hit game ULTRAKILL, for those who do not know ULTRAKILL is a first person, 3d, action shooter made in the Unity game engine.
 
+This organisation will contain tutorials for making ultrakill mods, useful templates and possibly community utilities to assist in development
+
+You can find the documentation at: https://ultramodding.github.io/
+Anyone is welcome to join!
+
+
+
+```
 <!--
 
 **Here are some ideas to get you started:**
