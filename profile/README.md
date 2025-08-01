@@ -4,7 +4,7 @@ UltraModding is a collective focused on modding the hit game ULTRAKILL, for thos
 
 This organisation will contain tutorials for making ultrakill mods, useful templates and possibly community utilities to assist in development
 
-You can find the documentation at: https://ultramodding.github.io/
+You can find the documentation at: https://ultramodding.github.io/ and the discord is at https://discord.gg/wF8ttp8G
 Anyone is welcome to join!
 
 
